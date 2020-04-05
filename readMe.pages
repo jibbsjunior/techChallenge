@@ -1,0 +1,4 @@
+this app is up and running at https://boring-cray-add7f4.netlify.com/
+
+this app listen to 2 routes, the first route is the homepage while the 2nd route take an id as a parameter. when you click on each name
+on the page, the 2nd route will fired and open a new tab with the name click on the previous page and search it on google.
